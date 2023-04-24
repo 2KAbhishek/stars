@@ -42,36 +42,36 @@ Total starred repositories: `201`
 
 ## Assembly
 
-  - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions! (⭐️9695) 
+  - [leachim6/hello-world](https://github.com/leachim6/hello-world) - Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions! (⭐️9702) 
 
 **[⬆ back to top](#contents)**
 
 ## C
 
-  - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch (⭐️24842)
-  - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses. (⭐️2675)
+  - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch (⭐️24844)
+  - [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses) - blingful character graphics/TUI library. definitely not curses. (⭐️2676)
   - [dspinellis/dgsh](https://github.com/dspinellis/dgsh) - Shell supporting pipelines to and from multiple processes (⭐️295)
   - [hexagonal-sun/bic](https://github.com/hexagonal-sun/bic) - A C interpreter and API explorer. (⭐️780)
   - [jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h) - Single header library for writing non-blocking HTTP servers in C (⭐️1632)
-  - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website. (⭐️7687)
+  - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website. (⭐️7701)
   - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset (⭐️17943)
-  - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (⭐️48039) 
+  - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (⭐️48071) 
 
 **[⬆ back to top](#contents)**
 
 ## C++
 
-  - [ggerganov/imtui](https://github.com/ggerganov/imtui) - ImTui: Immediate Mode Text-based User Interface C++ Library (⭐️2311)
-  - [includeos/IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services (⭐️4689)
-  - [marcj/TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler (⭐️2462) 
+  - [ggerganov/imtui](https://github.com/ggerganov/imtui) - ImTui: Immediate Mode Text-based User Interface C++ Library (⭐️2313)
+  - [includeos/IncludeOS](https://github.com/includeos/IncludeOS) - A minimal, resource efficient unikernel for cloud services (⭐️4688)
+  - [marcj/TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler (⭐️2463) 
 
 **[⬆ back to top](#contents)**
 
 ## CSS
 
   - [libredeb/xfce4-macOS_skinpack](https://github.com/libredeb/xfce4-macOS_skinpack) - A custom skinpack for Debian and Ubuntu based distros using XFCE4 (⭐️9)
-  - [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚 (⭐️3937)
-  - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more (⭐️43151) 
+  - [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚 (⭐️3938)
+  - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more (⭐️43183) 
 
 **[⬆ back to top](#contents)**
 
@@ -83,45 +83,45 @@ Total starred repositories: `201`
 
 ## Dart
 
-  - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine. (⭐️7702)
-  - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. (⭐️46421) 
+  - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine. (⭐️7703)
+  - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more. (⭐️46433) 
 
 **[⬆ back to top](#contents)**
 
 ## Dockerfile
 
-  - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023) (⭐️88765) 
+  - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023) (⭐️88779) 
 
 **[⬆ back to top](#contents)**
 
 ## Emacs Lisp
 
-  - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim! (⭐️22934) 
+  - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim! (⭐️22937) 
 
 **[⬆ back to top](#contents)**
 
 ## Go
 
-  - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (⭐️12945)
-  - [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework (⭐️20365)
-  - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (⭐️34179)
+  - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (⭐️12949)
+  - [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework (⭐️20373)
+  - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (⭐️34209)
   - [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊 (⭐️3286)
   - [MichaelMure/git-bug](https://github.com/MichaelMure/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges (⭐️7678)
-  - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux. (⭐️8143)
+  - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux. (⭐️8146)
   - [replit/upm](https://github.com/replit/upm) - 🌀 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp. (⭐️952)
-  - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (⭐️16468)
-  - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (⭐️31568)
-  - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers (⭐️9618)
+  - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) (⭐️16471)
+  - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (⭐️31588)
+  - [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) - Information gathering framework for phone numbers (⭐️9620)
   - [TekWizely/run](https://github.com/TekWizely/run) - Task runner that helps you easily manage and invoke small scripts and wrappers (⭐️459)
-  - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases (⭐️7965) 
+  - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases (⭐️7972) 
 
 **[⬆ back to top](#contents)**
 
 ## HTML
 
-  - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (⭐️68746)
+  - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (⭐️69078)
   - [incubyte/incubyte.github.io](https://github.com/incubyte/incubyte.github.io) - Our blog! ✍🏼 (⭐️2)
-  - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (⭐️69154) 
+  - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev (⭐️69180) 
 
 **[⬆ back to top](#contents)**
 
@@ -133,61 +133,61 @@ Total starred repositories: `201`
 
 ## Java
 
-  - [DreamOfTheRedChamber/system-design-interviews](https://github.com/DreamOfTheRedChamber/system-design-interviews) -  (⭐️1911)
-  - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java (⭐️81137)
-  - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed. (⭐️7058) 
+  - [DreamOfTheRedChamber/system-design-interviews](https://github.com/DreamOfTheRedChamber/system-design-interviews) -  (⭐️1912)
+  - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java (⭐️81166)
+  - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed. (⭐️7059) 
 
 **[⬆ back to top](#contents)**
 
 ## JavaScript
 
   - [AlexGilleran/jsx-control-statements](https://github.com/AlexGilleran/jsx-control-statements) - Neater If and For for React JSX (⭐️1583)
-  - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares (⭐️7984)
-  - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos (⭐️14006)
-  - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites. (⭐️54227)
+  - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares (⭐️7987)
+  - [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos (⭐️14008)
+  - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites. (⭐️54226)
   - [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications. (⭐️18939)
-  - [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers (⭐️9963)
-  - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser. (⭐️19966)
-  - [pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components (⭐️3120)
+  - [openlayers/openlayers](https://github.com/openlayers/openlayers) - OpenLayers (⭐️9965)
+  - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser. (⭐️19975)
+  - [pmndrs/gltfjsx](https://github.com/pmndrs/gltfjsx) - 🎮 Turns GLTFs into JSX components (⭐️3124)
   - [rsapkf/42](https://github.com/rsapkf/42) - @rsapkf's wiki. [Merged into rsapkf/www] (⭐️1900) *Archived!*
   - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (⭐️15455)
-  - [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary. (⭐️640)
-  - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings (⭐️168829)
+  - [sparticleinc/chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) - Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary. (⭐️652)
+  - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings (⭐️168888)
   - [trekhleb/nano-neuron](https://github.com/trekhleb/nano-neuron) - 🤖 NanoNeuron is 7 simple JavaScript functions that will give you a feeling of how machines can actually "learn" (⭐️2187)
   - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE) (⭐️8314)
   - [VGraupera/1on1-questions](https://github.com/VGraupera/1on1-questions) - Mega list of 1 on 1 meeting questions compiled from a variety to sources (⭐️9310)
-  - [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples (⭐️12787) 
+  - [webrtc/samples](https://github.com/webrtc/samples) - WebRTC Web demos and samples (⭐️12788) 
 
 **[⬆ back to top](#contents)**
 
 ## Jinja
 
-  - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (⭐️4019) 
+  - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE. (⭐️4024) 
 
 **[⬆ back to top](#contents)**
 
 ## Jupyter Notebook
 
-  - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (⭐️26287)
+  - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering (⭐️26427)
   - [fastai/fastpages](https://github.com/fastai/fastpages) - An easy to use blogging platform, with enhanced support for Jupyter Notebooks. (⭐️3478) *Archived!*
-  - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly develop, deploy and maintain production machine learning applications. (⭐️33071)
-  - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.  (⭐️14463)
-  - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself. (⭐️13815)
-  - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. (⭐️13513) 
+  - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly develop, deploy and maintain production machine learning applications. (⭐️33080)
+  - [mahmoud/awesome-python-applications](https://github.com/mahmoud/awesome-python-applications) - 💿 Free software that works great, and also happens to be open-source Python.  (⭐️14466)
+  - [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) - One has no future if one couldn't teach themself. (⭐️13818)
+  - [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking  / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more. (⭐️13519) 
 
 **[⬆ back to top](#contents)**
 
 ## Kotlin
 
-  - [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose (⭐️10949) 
+  - [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose (⭐️10961) 
 
 **[⬆ back to top](#contents)**
 
 ## Lua
 
-  - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim (⭐️775)
-  - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context (⭐️946)
-  - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc (⭐️19797) 
+  - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) - A Neovim (lua) plugin for working with a markdown zettelkasten / wiki and mixing it with a journal, based on telescope.nvim (⭐️776)
+  - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context (⭐️947)
+  - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc (⭐️19803) 
 
 **[⬆ back to top](#contents)**
 
@@ -199,7 +199,7 @@ Total starred repositories: `201`
 
 ## Markdown
 
-  - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.  (⭐️115548) 
+  - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.  (⭐️115569) 
 
 **[⬆ back to top](#contents)**
 
@@ -211,55 +211,55 @@ Total starred repositories: `201`
 
 ## PHP
 
-  - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships. (⭐️18945) 
+  - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships. (⭐️18955) 
 
 **[⬆ back to top](#contents)**
 
 ## PowerShell
 
-  - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows. (⭐️17633) 
+  - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows. (⭐️17640) 
 
 **[⬆ back to top](#contents)**
 
 ## Python
 
   - [alexmojaki/snoop](https://github.com/alexmojaki/snoop) - A powerful set of Python debugging tools, based on PySnooper (⭐️918)
-  - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more! (⭐️1604)
-  - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (⭐️42374)
-  - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers (⭐️23289)
-  - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line (⭐️17537)
+  - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more! (⭐️1606)
+  - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (⭐️42392)
+  - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers (⭐️23291)
+  - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line (⭐️17536)
   - [cloudflare/flan](https://github.com/cloudflare/flan) - A pretty sweet vulnerability scanner (⭐️3892)
   - [dccsillag/magma-nvim](https://github.com/dccsillag/magma-nvim) - Interact with Jupyter from NeoVim. (⭐️484)
-  - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All (⭐️44528)
-  - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools (⭐️7381)
-  - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (⭐️218302)
+  - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All (⭐️44546)
+  - [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools (⭐️7385)
+  - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards. (⭐️218375)
   - [hellerve/programming-talks](https://github.com/hellerve/programming-talks) - Awesome & interesting talks about programming (⭐️7073)
-  - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (⭐️95254)
-  - [jivoi/pentest](https://github.com/jivoi/pentest) - :no_entry: offsec batteries included (⭐️1338)
+  - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (⭐️95511)
+  - [jivoi/pentest](https://github.com/jivoi/pentest) - :no_entry: offsec batteries included (⭐️1339)
   - [julvo/reloading](https://github.com/julvo/reloading) - Change Python code while it's running without losing state (⭐️969)
-  - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support (⭐️8206)
-  - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline (⭐️46835)
-  - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft (⭐️7585)
-  - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples (⭐️6120) *Archived!*
-  - [NVlabs/stylegan2](https://github.com/NVlabs/stylegan2) - StyleGAN2 - Official TensorFlow Implementation (⭐️10337)
-  - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners" (⭐️18791)
-  - [p4-team/ctf](https://github.com/p4-team/ctf) - Ctf solutions from p4 team (⭐️1658)
+  - [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support (⭐️8215)
+  - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline (⭐️46839)
+  - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft (⭐️7589)
+  - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) - Natural Language Processing Best Practices & Examples (⭐️6121) *Archived!*
+  - [NVlabs/stylegan2](https://github.com/NVlabs/stylegan2) - StyleGAN2 - Official TensorFlow Implementation (⭐️10339)
+  - [openai/gpt-2](https://github.com/openai/gpt-2) - Code for the paper "Language Models are Unsupervised Multitask Learners" (⭐️18808)
+  - [p4-team/ctf](https://github.com/p4-team/ctf) - Ctf solutions from p4 team (⭐️1657)
   - [PaulMcInnis/JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Scrape job websites into a single spreadsheet with no duplicates. (⭐️1642)
-  - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (⭐️237140)
+  - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs (⭐️237227)
   - [python-mario/mario](https://github.com/python-mario/mario) - Powerful Python pipelines for your shell  (⭐️494)
-  - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy (⭐️24715)
-  - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way. (⭐️3828)
-  - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀 (⭐️13204)
+  - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy (⭐️24722)
+  - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way. (⭐️3829)
+  - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀 (⭐️13208)
   - [RustyShackleford221/OSCP-Prep](https://github.com/RustyShackleford221/OSCP-Prep) - A comprehensive guide/material for anyone looking to get into infosec or take the OSCP exam (⭐️872)
-  - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱 (⭐️32555)
-  - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks (⭐️40436)
+  - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱 (⭐️32559)
+  - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks (⭐️40452)
   - [sunainapai/makesite](https://github.com/sunainapai/makesite) - Simple, lightweight, and magic-free static site/blog generator for Python coders (⭐️1700)
-  - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (⭐️42987)
-  - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser! (⭐️18846)
-  - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python (⭐️157677)
+  - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (⭐️42994)
+  - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser! (⭐️18859)
+  - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python (⭐️157731)
   - [tradytics/eiten](https://github.com/tradytics/eiten) - Statistical and Algorithmic Investing Strategies for Everyone (⭐️2510)
   - [unixorn/gitlike-commands](https://github.com/unixorn/gitlike-commands) - Easy python module for creating git-style subcommand handling. (⭐️6)
-  - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based interfaces with Python. The nice way. (⭐️3722) 
+  - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based interfaces with Python. The nice way. (⭐️3734) 
 
 **[⬆ back to top](#contents)**
 
@@ -267,7 +267,7 @@ Total starred repositories: `201`
 
   - [bullet-train-co/bullet_train](https://github.com/bullet-train-co/bullet_train) - The Open Source Ruby on Rails SaaS Template (⭐️884)
   - [codetriage/CodeTriage](https://github.com/codetriage/CodeTriage) - Discover the best way to get started contributing to Open Source projects (⭐️1329)
-  - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. (⭐️37741)
+  - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. (⭐️37744)
   - [ilyakatz/data-migrate](https://github.com/ilyakatz/data-migrate) - Migrate and update data alongside your database structure. (⭐️1202)
   - [jonhue/acts_as_favoritor](https://github.com/jonhue/acts_as_favoritor) - Adds Favorite, Follow, Vote, etc. functionality to ActiveRecord models (⭐️308)
   - [mrkamel/search_cop](https://github.com/mrkamel/search_cop) - Search engine like fulltext query support for ActiveRecord (⭐️778) 
@@ -276,133 +276,133 @@ Total starred repositories: `201`
 
 ## Rust
 
-  - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. (⭐️9499)
-  - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (⭐️37377)
-  - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output (⭐️17181)
-  - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (⭐️12209)
-  - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust (⭐️10254)
-  - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (⭐️5457)
-  - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀 (⭐️14743)
-  - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web (⭐️23231)
-  - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (⭐️40840)
-  - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors (⭐️4510)
-  - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (⭐️62521) 
+  - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device. (⭐️9519)
+  - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (⭐️37395)
+  - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output (⭐️17187)
+  - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (⭐️12254)
+  - [fdehau/tui-rs](https://github.com/fdehau/tui-rs) - Build terminal user interfaces and dashboards using Rust (⭐️10262)
+  - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (⭐️5461)
+  - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀 (⭐️14749)
+  - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web (⭐️23235)
+  - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (⭐️40854)
+  - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors (⭐️4512)
+  - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (⭐️62555) 
 
 **[⬆ back to top](#contents)**
 
 ## SCSS
 
   - [keyvanakbary/learning-notes](https://github.com/keyvanakbary/learning-notes) - Notes on books I read, talks I watch, articles I study, and papers I love (⭐️3282)
-  - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (⭐️8982) 
+  - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML (⭐️9003) 
 
 **[⬆ back to top](#contents)**
 
 ## Scala
 
-  - [lhartikk/ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language (⭐️6552) 
+  - [lhartikk/ArnoldC](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language (⭐️6553) 
 
 **[⬆ back to top](#contents)**
 
 ## Shell
 
-  - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps (⭐️11262)
-  - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users (⭐️9115)
-  - [arismelachroinos/lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster. (⭐️3600)
-  - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System (⭐️3928)
-  - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws (⭐️24752)
-  - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes. (⭐️33291)
-  - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action (⭐️8685)
+  - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps (⭐️11269)
+  - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users (⭐️9114)
+  - [arismelachroinos/lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster. (⭐️3601)
+  - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System (⭐️3929)
+  - [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws (⭐️24759)
+  - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes. (⭐️33294)
+  - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action (⭐️8686)
   - [infostreams/db](https://github.com/infostreams/db) - Version control for databases: save, restore, and archive snapshots of your database from the command line (⭐️1318)
   - [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm (⭐️309)
-  - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. (⭐️11236)
+  - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers. (⭐️11240)
   - [learnbyexample/Command-line-text-processing](https://github.com/learnbyexample/Command-line-text-processing) - :zap: From finding text to search and replace, from sorting to beautifying text and more :art: (⭐️10071) *Archived!*
   - [march-linux/mimi](https://github.com/march-linux/mimi) - better xdg-open (⭐️134)
-  - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (⭐️71538)
-  - [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools. (⭐️7352) 
+  - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (⭐️71562)
+  - [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools. (⭐️7354) 
 
 **[⬆ back to top](#contents)**
 
 ## Swift
 
-  - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (⭐️15944)
-  - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS (⭐️7509) 
+  - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar (⭐️15959)
+  - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS (⭐️7514) 
 
 **[⬆ back to top](#contents)**
 
 ## TypeScript
 
-  - [antfu/unplugin-icons](https://github.com/antfu/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally. (⭐️2516)
-  - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. (⭐️30779)
-  - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (⭐️60034)
-  - [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats (⭐️1928)
-  - [esjeon/krohnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin (⭐️1509)
-  - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. (⭐️20091)
-  - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode (⭐️13650)
-  - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more (⭐️74041)
-  - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (⭐️51048)
-  - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (⭐️145300)
-  - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API. (⭐️6905)
-  - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce. (⭐️8287)
+  - [antfu/unplugin-icons](https://github.com/antfu/unplugin-icons) - 🤹 Access thousands of icons as components on-demand universally. (⭐️2519)
+  - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative. (⭐️30789)
+  - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser (⭐️60052)
+  - [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats (⭐️1929)
+  - [esjeon/krohnkite](https://github.com/esjeon/krohnkite) - A dynamic tiling extension for KWin (⭐️1508)
+  - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. (⭐️20097)
+  - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode (⭐️13655)
+  - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more (⭐️74059)
+  - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io (⭐️51060)
+  - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code (⭐️145339)
+  - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) - Sample code illustrating the VS Code extension API. (⭐️6908)
+  - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce. (⭐️8289)
   - [phiresky/sql.js-httpvfs](https://github.com/phiresky/sql.js-httpvfs) - Hosting read-only SQLite databases on static file hosters like Github Pages (⭐️3057)
-  - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (⭐️15749)
-  - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web. (⭐️23603)
-  - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener. (⭐️7048)
-  - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers (⭐️89876) 
+  - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React (⭐️15752)
+  - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines and statecharts for the modern web. (⭐️23611)
+  - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener. (⭐️7052)
+  - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers (⭐️89904) 
 
 **[⬆ back to top](#contents)**
 
 ## Unknown
 
-  - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag: (⭐️4274)
-  - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets. (⭐️53874)
-  - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems (⭐️44766)
-  - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more (⭐️50878)
-  - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem (⭐️5456)
-  - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols) (⭐️4780)
-  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️198529)
-  - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  (⭐️54865)
-  - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (⭐️276949)
-  - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills. (⭐️64252)
+  - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag: (⭐️4275)
+  - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets. (⭐️53889)
+  - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems (⭐️44783)
+  - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more (⭐️50897)
+  - [ChromeDevTools/awesome-chrome-devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Awesome tooling and resources in the Chrome DevTools & DevTools Protocol ecosystem (⭐️5459)
+  - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols) (⭐️4782)
+  - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (⭐️198718)
+  - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  (⭐️54883)
+  - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (⭐️277031)
+  - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills. (⭐️64277)
   - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.  (⭐️12399) *Archived!*
   - [google/clusterfuzzlite](https://github.com/google/clusterfuzzlite) - ClusterFuzzLite - Simple continuous fuzzing that runs in CI. (⭐️396)
-  - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers (⭐️64026)
-  - [harismuneer/Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - 🤖 A Software that automates your social media interactions to collect posts, photos, videos, interests, friends, followers, and much more on Facebook. (⭐️2551)
-  - [IvanGoncharov/graphql-apis](https://github.com/IvanGoncharov/graphql-apis) - 📜 A collective list of public GraphQL APIs (⭐️4216)
-  - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page (⭐️135341)
+  - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers (⭐️64063)
+  - [harismuneer/Ultimate-Facebook-Scraper](https://github.com/harismuneer/Ultimate-Facebook-Scraper) - 🤖 A Software that automates your social media interactions to collect posts, photos, videos, interests, friends, followers, and much more on Facebook. (⭐️2552)
+  - [IvanGoncharov/graphql-apis](https://github.com/IvanGoncharov/graphql-apis) - 📜 A collective list of public GraphQL APIs (⭐️4218)
+  - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page (⭐️135370)
   - [jmesyou/functional-programming-jargon.py](https://github.com/jmesyou/functional-programming-jargon.py) - Jargon from the functional programming world in simple terms! (⭐️221)
-  - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (⭐️255239)
-  - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. (⭐️22891)
-  - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in (⭐️20608)
+  - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (⭐️255282)
+  - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP. (⭐️22892)
+  - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in (⭐️20611)
   - [lauragift21/awesome-learning-resources](https://github.com/lauragift21/awesome-learning-resources) - 🔥 Awesome list of resources on Web Development. (⭐️4875)
-  - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️ (⭐️8140)
-  - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines (⭐️21259)
-  - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects. (⭐️50544)
+  - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️ (⭐️8141)
+  - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines (⭐️21260)
+  - [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners) - A list of awesome beginners-friendly projects. (⭐️50571)
   - [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) - 🎨 A curated list of awesome resources for digital designers. (⭐️2187)
-  - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science! (⭐️138188)
-  - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (⭐️99557)
-  - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers. (⭐️51225)
-  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (⭐️250151)
-  - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. (⭐️30575)
-  - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made. (⭐️1117)
-  - [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of 200+ Flash Cards to Help You Preparing Your Algorithms & Data Structures Interview 💯 (⭐️5073)
-  - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers (⭐️64871)
-  - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub. (⭐️40633)
-  - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A. (⭐️9738)
-  - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. (⭐️95829)
+  - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science! (⭐️138248)
+  - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials (⭐️99700)
+  - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers. (⭐️51230)
+  - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (⭐️250288)
+  - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things. (⭐️30577)
+  - [Syndrizzle/hotfiles](https://github.com/Syndrizzle/hotfiles) - 🏠 A collection of personal configuration files for various rices I have made. (⭐️1118)
+  - [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of 200+ Flash Cards to Help You Preparing Your Algorithms & Data Structures Interview 💯 (⭐️5074)
+  - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers (⭐️64878)
+  - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub. (⭐️40638)
+  - [trimstray/test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A. (⭐️9741)
+  - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more. (⭐️95908)
   - [wesbos/dad-jokes](https://github.com/wesbos/dad-jokes) - dad jokes (⭐️2546) 
 
 **[⬆ back to top](#contents)**
 
 ## Vim Script
 
-  - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot (⭐️5160)
-  - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (⭐️65119) 
+  - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot (⭐️5173)
+  - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability (⭐️65174) 
 
 **[⬆ back to top](#contents)**
 
 ## XSLT
 
-  - [LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts) (⭐️5414) 
+  - [LOLBAS-Project/LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) - Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts) (⭐️5416) 
 
 **[⬆ back to top](#contents)**
 
